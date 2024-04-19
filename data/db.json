@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Juliet Oma",
+      "email": "",
+      "age": "",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "James Williams",
+      "email": "",
+      "age": "",
+      "password": "1234"
+    },
+    {
+      "id": "3",
+      "name": "Ahmed Ali",
+      "email": "",
+      "age": "",
+      "password": "12345"
+    },
+    {
+      "id": "4",
+      "name": "Grace Funsho",
+      "email": "",
+      "age": "",
+      "password": "123456"
+    },
+    {
+      "id": "4",
+      "name": "Henrique",
+      "email": "",
+      "age": "",
+      "password": "123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "b85b",
+      "name": "Carro",
+      "price": "20"
+    },
+    {
+      "id": "8f5e",
+      "name": "Carro323",
+      "price": "20"
+    },
+    {
+      "id": "e0ef",
+      "name": "Carro323",
+      "price": "20"
+    },
+    {
+      "id": "e8fd",
+      "name": "Ferrari",
+      "price": "900"
+    }
+  ]
+}
